@@ -39,9 +39,7 @@
 > - [ Getting Started](#-getting-started)
 >   - [ Installation](#-installation)
 >   - [ Running Disneyplus-Clone](#-running-Disneyplus-Clone)
->   - [ Tests](#-tests)
 > - [ Project Roadmap](#-project-roadmap)
-> - [ Contributing](#-contributing)
 > - [ License](#-license)
 > - [ Acknowledgments](#-acknowledgments)
 
@@ -253,7 +251,7 @@
 
 Ensure you have the following dependencies installed on your system:
 
-* **JavaScript**: `version x.y.z`
+* **NodeJS**
 
 ###  Installation
 
