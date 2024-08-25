@@ -10,7 +10,7 @@ import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
 
-  apiKey: "AIzaSyDWC9tf4-KT_RZGWRJqwbyEdQy16VZWk9Y",
+  apiKey: "Put your own API Key here",
 
   authDomain: "disneyplus-clone-630c7.firebaseapp.com",
 
