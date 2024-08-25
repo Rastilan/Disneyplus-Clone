@@ -153,14 +153,14 @@
 
 | File                                                                                                      | Summary                         |
 | ---                                                                                                       | ---                             |
-| [index.html](https://github.com/Rastilan/Disneyplus-Clone/blob/master/index.html)                         | <code>► INSERT-TEXT-HERE</code> |
-| [database.rules.json](https://github.com/Rastilan/Disneyplus-Clone/blob/master/database.rules.json)       | <code>► INSERT-TEXT-HERE</code> |
-| [vite.config.js](https://github.com/Rastilan/Disneyplus-Clone/blob/master/vite.config.js)                 | <code>► INSERT-TEXT-HERE</code> |
-| [package.json](https://github.com/Rastilan/Disneyplus-Clone/blob/master/package.json)                     | <code>► INSERT-TEXT-HERE</code> |
-| [firebase.json](https://github.com/Rastilan/Disneyplus-Clone/blob/master/firebase.json)                   | <code>► INSERT-TEXT-HERE</code> |
-| [firestore.rules](https://github.com/Rastilan/Disneyplus-Clone/blob/master/firestore.rules)               | <code>► INSERT-TEXT-HERE</code> |
-| [package-lock.json](https://github.com/Rastilan/Disneyplus-Clone/blob/master/package-lock.json)           | <code>► INSERT-TEXT-HERE</code> |
-| [firestore.indexes.json](https://github.com/Rastilan/Disneyplus-Clone/blob/master/firestore.indexes.json) | <code>► INSERT-TEXT-HERE</code> |
+| [index.html](https://github.com/Rastilan/Disneyplus-Clone/blob/master/index.html)                         | <code>► </code> |
+| [database.rules.json](https://github.com/Rastilan/Disneyplus-Clone/blob/master/database.rules.json)       | <code>► </code> |
+| [vite.config.js](https://github.com/Rastilan/Disneyplus-Clone/blob/master/vite.config.js)                 | <code>► </code> |
+| [package.json](https://github.com/Rastilan/Disneyplus-Clone/blob/master/package.json)                     | <code>► </code> |
+| [firebase.json](https://github.com/Rastilan/Disneyplus-Clone/blob/master/firebase.json)                   | <code>► </code> |
+| [firestore.rules](https://github.com/Rastilan/Disneyplus-Clone/blob/master/firestore.rules)               | <code>► </code> |
+| [package-lock.json](https://github.com/Rastilan/Disneyplus-Clone/blob/master/package-lock.json)           | <code>► </code> |
+| [firestore.indexes.json](https://github.com/Rastilan/Disneyplus-Clone/blob/master/firestore.indexes.json) | <code>► </code> |
 
 </details>
 
@@ -168,7 +168,7 @@
 
 | File                                                                                     | Summary                         |
 | ---                                                                                      | ---                             |
-| [index.html](https://github.com/Rastilan/Disneyplus-Clone/blob/master/public/index.html) | <code>► INSERT-TEXT-HERE</code> |
+| [index.html](https://github.com/Rastilan/Disneyplus-Clone/blob/master/public/index.html) | <code>► The primary HTML file </code> |
 
 </details>
 
@@ -176,8 +176,8 @@
 
 | File                                                                                                                                              | Summary                         |
 | ---                                                                                                                                               | ---                             |
-| [firebase-hosting-pull-request.yml](https://github.com/Rastilan/Disneyplus-Clone/blob/master/.github/workflows/firebase-hosting-pull-request.yml) | <code>► INSERT-TEXT-HERE</code> |
-| [firebase-hosting-merge.yml](https://github.com/Rastilan/Disneyplus-Clone/blob/master/.github/workflows/firebase-hosting-merge.yml)               | <code>► INSERT-TEXT-HERE</code> |
+| [firebase-hosting-pull-request.yml](https://github.com/Rastilan/Disneyplus-Clone/blob/master/.github/workflows/firebase-hosting-pull-request.yml) | <code>► </code> |
+| [firebase-hosting-merge.yml](https://github.com/Rastilan/Disneyplus-Clone/blob/master/.github/workflows/firebase-hosting-merge.yml)               | <code>► </code> |
 
 </details>
 
@@ -185,10 +185,10 @@
 
 | File                                                                                                      | Summary                         |
 | ---                                                                                                       | ---                             |
-| [.eslintrc.js](https://github.com/Rastilan/Disneyplus-Clone/blob/master/functions/.eslintrc.js)           | <code>► INSERT-TEXT-HERE</code> |
-| [package.json](https://github.com/Rastilan/Disneyplus-Clone/blob/master/functions/package.json)           | <code>► INSERT-TEXT-HERE</code> |
-| [index.js](https://github.com/Rastilan/Disneyplus-Clone/blob/master/functions/index.js)                   | <code>► INSERT-TEXT-HERE</code> |
-| [package-lock.json](https://github.com/Rastilan/Disneyplus-Clone/blob/master/functions/package-lock.json) | <code>► INSERT-TEXT-HERE</code> |
+| [.eslintrc.js](https://github.com/Rastilan/Disneyplus-Clone/blob/master/functions/.eslintrc.js)           | <code>► </code> |
+| [package.json](https://github.com/Rastilan/Disneyplus-Clone/blob/master/functions/package.json)           | <code>► </code> |
+| [index.js](https://github.com/Rastilan/Disneyplus-Clone/blob/master/functions/index.js)                   | <code>► </code> |
+| [package-lock.json](https://github.com/Rastilan/Disneyplus-Clone/blob/master/functions/package-lock.json) | <code>► </code> |
 
 </details>
 
@@ -196,11 +196,11 @@
 
 | File                                                                                      | Summary                         |
 | ---                                                                                       | ---                             |
-| [App.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/App.jsx)           | <code>► INSERT-TEXT-HERE</code> |
-| [App.css](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/App.css)           | <code>► INSERT-TEXT-HERE</code> |
-| [firebase.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/firebase.jsx) | <code>► INSERT-TEXT-HERE</code> |
-| [index.css](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/index.css)       | <code>► INSERT-TEXT-HERE</code> |
-| [main.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/main.jsx)         | <code>► INSERT-TEXT-HERE</code> |
+| [App.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/App.jsx)           | <code>► </code> |
+| [App.css](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/App.css)           | <code>► </code> |
+| [firebase.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/firebase.jsx) | <code>► </code> |
+| [index.css](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/index.css)       | <code>► </code> |
+| [main.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/main.jsx)         | <code>► </code> |
 
 </details>
 
@@ -208,16 +208,16 @@
 
 | File                                                                                                     | Summary                         |
 | ---                                                                                                      | ---                             |
-| [ImgSlider.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/ImgSlider.jsx)   | <code>► INSERT-TEXT-HERE</code> |
-| [Viewers.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/Viewers.jsx)       | <code>► INSERT-TEXT-HERE</code> |
-| [Login.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/Login.jsx)           | <code>► INSERT-TEXT-HERE</code> |
-| [NewDisney.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/NewDisney.jsx)   | <code>► INSERT-TEXT-HERE</code> |
-| [Home.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/Home.jsx)             | <code>► INSERT-TEXT-HERE</code> |
-| [Recommends.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/Recommends.jsx) | <code>► INSERT-TEXT-HERE</code> |
-| [Originals.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/Originals.jsx)   | <code>► INSERT-TEXT-HERE</code> |
-| [Header.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/Header.jsx)         | <code>► INSERT-TEXT-HERE</code> |
-| [Trending.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/Trending.jsx)     | <code>► INSERT-TEXT-HERE</code> |
-| [Detail.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/Detail.jsx)         | <code>► INSERT-TEXT-HERE</code> |
+| [ImgSlider.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/ImgSlider.jsx)   | <code>► </code> |
+| [Viewers.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/Viewers.jsx)       | <code>► </code> |
+| [Login.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/Login.jsx)           | <code>► </code> |
+| [NewDisney.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/NewDisney.jsx)   | <code>► </code> |
+| [Home.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/Home.jsx)             | <code>► </code> |
+| [Recommends.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/Recommends.jsx) | <code>► </code> |
+| [Originals.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/Originals.jsx)   | <code>► </code> |
+| [Header.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/Header.jsx)         | <code>► </code> |
+| [Trending.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/Trending.jsx)     | <code>► </code> |
+| [Detail.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/components/Detail.jsx)         | <code>► </code> |
 
 </details>
 
@@ -225,7 +225,7 @@
 
 | File                                                                                                         | Summary                         |
 | ---                                                                                                          | ---                             |
-| [movieSlice.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/features/movie/movieSlice.jsx) | <code>► INSERT-TEXT-HERE</code> |
+| [movieSlice.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/features/movie/movieSlice.jsx) | <code>► </code> |
 
 </details>
 
@@ -233,7 +233,7 @@
 
 | File                                                                                                      | Summary                         |
 | ---                                                                                                       | ---                             |
-| [userSlice.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/features/user/userSlice.jsx) | <code>► INSERT-TEXT-HERE</code> |
+| [userSlice.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/features/user/userSlice.jsx) | <code>► </code> |
 
 </details>
 
@@ -241,7 +241,7 @@
 
 | File                                                                                    | Summary                         |
 | ---                                                                                     | ---                             |
-| [store.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/app/store.jsx) | <code>► INSERT-TEXT-HERE</code> |
+| [store.jsx](https://github.com/Rastilan/Disneyplus-Clone/blob/master/src/app/store.jsx) | <code>► </code> |
 
 </details>
 
