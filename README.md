@@ -49,6 +49,9 @@
 
 <code>► Login using firebase auth with Google and view the interface. Do note that this does not provide any access to any content like Movies or Shows.</code>
 
+
+<h2>Check out the project hosted live at https://disneyplus-clone-630c7.firebaseapp.com/home</h2>
+
 ---
 
 ##  Features
